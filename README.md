@@ -1,4 +1,4 @@
-[![MasterHead]()]
+[![MasterHead](https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem.gif)]
 <iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Mayaka Ombogo</h1>
 <h3 align="center">I am a Software Developer, Computer Hardware Engineer and Video Editor from Kenya</h3>
