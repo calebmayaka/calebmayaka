@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayaka Ombogo</h1>
-<h3 align="center">I am a software developer, computer hardware engineer and video editor from kenya</h3>
+<h3 align="center">I am a Software Developer, Computer Hardware Engineer and Video Editor from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ombogomayaka&label=Profile%20views&color=0e75b6&style=flat" alt="ombogomayaka" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ombogomayaka" target="blank"><img src="https://img.shields.io/twitter/follow/ombogomayaka?logo=twitter&style=for-the-badge" alt="ombogomayaka" /></a> </p>
 
-- 🌱 I’m currently learning **Php,python, Hack and asp.net**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **php, hack, laravel , python**
+- 💬 Ask me about **PHP,Hack,Laravel and Python**
 
 - 📫 How to reach me **ombogomayaka@gmail.com**
 
