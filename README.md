@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ombogomayaka" target="blank"><img src="https://img.shields.io/twitter/follow/ombogomayaka?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
-- 🔭 I’m currently working on **Facebook Clone**
+- 🔭 I’m currently working on **Facebook Clone.**
 
 - 🌱 I’m currently learning **Laravel, Hack**
 
