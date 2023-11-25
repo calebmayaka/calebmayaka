@@ -1,21 +1,27 @@
-     #!/usr/bin/python
-     # -*- coding: utf-8 -*-
-                                    
-    class FullStackDeveloper:
-        def __init__(self):
-            self.first_name = "Ombogo"
-            self.last_name = "Mayaka"
-            self.role = "Software Engineer and Video Editor"
+## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3%"> 
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class FullStackDeveloper:
+
+    def __init__(self):
+        self.first_name = "Ombogo"
+        self.last_name = "Mayaka"
+        self.role = "Software Engineer, Video editor and Graphics Designer"
         
-            # Social Media
-            self.twitter = "https://twitter.com/OmbogoMayaka"
+        # Social Media
+        self.twitter = "https://twitter.com/ombogomayaka"
 
-        def say_hi(self):
-            print("Thanks for dropping by, hope you find some of my work interesting.")
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-    me = FullStackDeveloper()
-    me.say_hi()
 
+me = FullStackDeveloper()
+me.say_hi()
+```
 <h3 align="center">I am a Software Developer, Video Editor, Graphics designer and Computer hardware enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
