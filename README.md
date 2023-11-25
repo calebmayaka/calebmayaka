@@ -1,25 +1,20 @@
-<h1 align="center">Hi 👋</h1>
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class FullStackDeveloper:
-
-    def __init__(self):
-        self.first_name = "Abdelaali"
-        self.last_name = "ES SALMI"
-        self.role = "Technical and Pedagogical Staff at 1337"
+     #!/usr/bin/python
+    # -*- coding: utf-8 -*-
+                                    
+    class FullStackDeveloper:
+        def __init__(self):
+            self.first_name = "Ombogo"
+            self.last_name = "Mayaka"
+            self.role = "Software Engineer and Video Editor"
         
-        # Social Media
-        self.linkedin = "https://www.linkedin.com/in/abdlalisalmi/"
-        self.twitter = "https://twitter.com/abdlalisalmi"
+            # Social Media
+            self.twitter = "https://twitter.com/OmbogoMayaka"
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        def say_hi(self):
+            print("Thanks for dropping by, hope you find some of my work interesting.")
 
-
-me = FullStackDeveloper()
-me.say_hi()
+    me = FullStackDeveloper()
+    me.say_hi()
 
 <h3 align="center">I am a Software Developer, Video Editor, Graphics designer and Computer hardware enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
