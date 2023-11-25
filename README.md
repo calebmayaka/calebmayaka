@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋</h1>
-
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -7,12 +6,13 @@
 class FullStackDeveloper:
 
     def __init__(self):
-        self.first_name = "Mayaka"
-        self.last_name = "Ombogo"
-        self.role = "Freelance Software Engineer and Video Editor"
+        self.first_name = "Abdelaali"
+        self.last_name = "ES SALMI"
+        self.role = "Technical and Pedagogical Staff at 1337"
         
         # Social Media
-        self.twitter = "https://twitter.com/ombogomayaka"
+        self.linkedin = "https://www.linkedin.com/in/abdlalisalmi/"
+        self.twitter = "https://twitter.com/abdlalisalmi"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
