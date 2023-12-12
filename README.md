@@ -24,6 +24,7 @@ me = FullStackDeveloper()
 me.say_hi()
 ```
 <h3 align="center">I am a Software Developer, Video Editor, Graphics designer and Computer hardware enthusiast</h3>
+<h2 align="center">Computer Science Major</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
