@@ -32,7 +32,7 @@ me.say_hi()
 
 <p align="left"> <a href="https://twitter.com/ombogomayaka" target="blank"><img src="https://img.shields.io/twitter/follow/ombogomayaka?logo=twitter&style=for-the-badge" alt="mayakaombogo" /></a> </p>
 
-- 💬 Ask me about **Python, Django,Figma, Adobe Premiere Pro, Photoshop, After Effects**
+- 💬 Ask me about **Python, Django, Figma, Blender, Adobe Premiere Pro, Adobe Photoshop, Adobe After Effects and Adobe Ilustrator**
 
 - 📫 How to reach me **ombogomayaka@gmail.com**
 
