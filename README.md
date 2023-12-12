@@ -24,13 +24,13 @@ me = FullStackDeveloper()
 me.say_hi()
 ```
 <h3 align="center">I am a Software Developer, Video Editor, Graphics designer and Computer hardware enthusiast</h3>
-<h2 align="center">Computer Science Major</h2>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ombogomayaka&label=Profile%20views&color=0e75b6&style=flat" alt="ombogomayaka" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ombogomayaka" target="blank"><img src="https://img.shields.io/twitter/follow/ombogomayaka?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ombogomayaka" target="blank"><img src="https://img.shields.io/twitter/follow/ombogomayaka?logo=twitter&style=for-the-badge" alt="mayakaombogo" /></a> </p>
 
 - 💬 Ask me about **Python, Django,Figma, Adobe Premiere Pro, Photoshop, After Effects**
 
