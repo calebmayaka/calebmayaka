@@ -23,7 +23,7 @@ me = FullStackDeveloper()
 
 me.say_hi()
 ```
-<h3 align="center">I am a Software Developer, Video Editor, Graphics designer and Computer hardware enthusiast</h3>
+<h3 align="center">I am a Software Developer, Video Editor, Graphics designer, and Computer hardware enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -35,6 +35,8 @@ me.say_hi()
 - 💬 Ask me about **Python, Django,Figma, Adobe Premiere Pro, Photoshop, After Effects**
 
 - 📫 How to reach me **ombogomayaka@gmail.com**
+
+- ⚡ I am a **Computer Science Major** 
 
 - ⚡ Fun fact **I play Video Games Alot**
 
