@@ -59,12 +59,12 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebmayaka&count_private=true&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/lewis-kori/vue-google-translate">
+<!---<a href="https://github.com/lewis-kori/vue-google-translate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewis-kori&repo=vue-google-translate&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/lewis-kori/event-scheduler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewis-kori&repo=event-scheduler&theme=material-palenight" />
-
+-->
 
 </p>
