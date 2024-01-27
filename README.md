@@ -60,11 +60,11 @@ me.say_hi()
 </a>
 
 <a href="https://github.com/lewis-kori/vue-google-translate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calebmayaka&repo=vue-google-translate&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewis-kori&repo=vue-google-translate&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/lewis-kori/event-scheduler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calebmayaka&repo=event-scheduler&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewis-kori&repo=event-scheduler&theme=material-palenight" />
 
 
 </p>
