@@ -25,17 +25,14 @@ me.say_hi()
 ```
 <h3 align="center">I am a Software Developer, Video Editor, Graphics designer, and Computer hardware enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ombogomayaka&label=Profile%20views&color=0e75b6&style=flat" alt="ombogomayaka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ombogomayaka" target="blank"><img src="https://img.shields.io/twitter/follow/ombogomayaka?logo=twitter&style=for-the-badge" alt="mayakaombogo" /></a> </p>
 
-- 💬 Ask me about **Python, Django, Figma, Blender, Adobe Premiere Pro, Adobe Photoshop, Adobe After Effects and Adobe Ilustrator**
+- 💬 Ask me about **Python, Django, Figma, Adobe Premiere Pro, Adobe Photoshop, Adobe After Effects and Adobe Illustrator**
 
 - 📫 How to reach me **ombogomayaka@gmail.com**
 
