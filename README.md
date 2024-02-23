@@ -48,11 +48,11 @@ me.say_hi()
 <a href="https://youtube.com/@caleverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="caleb" height="30" width="40" /></a>
 </p>
 
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebmayaka&count_private=true&layout=compact&theme=material-palenight" />
 </a>
-
+-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=calebmayaka&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebmayaka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
