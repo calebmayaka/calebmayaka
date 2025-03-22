@@ -55,7 +55,7 @@ me.say_hi()
 -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pzm73job5tf37i4etqd562sl7e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=calebmayaka&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebmayaka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
